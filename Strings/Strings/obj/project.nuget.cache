@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fMh207KJwR0W+0nhg6mNqVv+5eDHSfwDOtiSBo1KZvehrv2dEcbkJCfe+OR3tTtqSadwltjzC7CWfzxoSVJKUA==",
+  "dgSpecHash": "xR31WC8a0jiMexa3xm8IvXsE/JMgX+89+HMC6bKweHPMFVmNfcJmAptTl2FK62D/SMNYzdDqcuY8lTMabHlEyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\santosh\\Documents\\Santosh\\aspNet\\cSharp\\Strings\\Strings\\Strings.csproj",
+  "projectFilePath": "C:\\Users\\santosh.mhatre\\source\\repos\\santyking\\C-AspNet\\Strings\\Strings\\Strings.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

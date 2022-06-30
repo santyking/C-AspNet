@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\santosh\\.nuget\\packages\\": {}
+    "C:\\Users\\santosh.mhatre\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santosh\\Documents\\Santosh\\aspNet\\cSharp\\Strings\\Strings\\Strings.csproj",
+      "projectUniqueName": "C:\\Users\\santosh.mhatre\\source\\repos\\santyking\\C-AspNet\\Strings\\Strings\\Strings.csproj",
       "projectName": "Strings",
-      "projectPath": "C:\\Users\\santosh\\Documents\\Santosh\\aspNet\\cSharp\\Strings\\Strings\\Strings.csproj",
-      "packagesPath": "C:\\Users\\santosh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\santosh\\Documents\\Santosh\\aspNet\\cSharp\\Strings\\Strings\\obj\\",
+      "projectPath": "C:\\Users\\santosh.mhatre\\source\\repos\\santyking\\C-AspNet\\Strings\\Strings\\Strings.csproj",
+      "packagesPath": "C:\\Users\\santosh.mhatre\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\santosh.mhatre\\source\\repos\\santyking\\C-AspNet\\Strings\\Strings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\santosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\santosh.mhatre\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

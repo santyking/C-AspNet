@@ -14,7 +14,7 @@
             Console.WriteLine(Phrase[2]);
             Console.WriteLine(Phrase.IndexOf('t'));
             Console.WriteLine(Phrase.IndexOf("Corpso"));
-            Console.WriteLine(Phrase.Substring(9));
+            Console.WriteLine(Phrase.Substring(8));
             Console.WriteLine(Phrase.Substring(Phrase.IndexOf("Corps")));
         }
     }
