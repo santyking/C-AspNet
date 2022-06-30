@@ -1,0 +1,15 @@
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\VariablesDataTypes\VariablesDataTypes\bin\Debug\net6.0\VariablesDataTypes.exe
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\VariablesDataTypes\VariablesDataTypes\bin\Debug\net6.0\VariablesDataTypes.deps.json
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\VariablesDataTypes\VariablesDataTypes\bin\Debug\net6.0\VariablesDataTypes.runtimeconfig.json
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\VariablesDataTypes\VariablesDataTypes\bin\Debug\net6.0\VariablesDataTypes.dll
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\VariablesDataTypes\VariablesDataTypes\bin\Debug\net6.0\VariablesDataTypes.pdb
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\VariablesDataTypes\VariablesDataTypes\obj\Debug\net6.0\VariablesDataTypes.csproj.AssemblyReference.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\VariablesDataTypes\VariablesDataTypes\obj\Debug\net6.0\VariablesDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\VariablesDataTypes\VariablesDataTypes\obj\Debug\net6.0\VariablesDataTypes.AssemblyInfoInputs.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\VariablesDataTypes\VariablesDataTypes\obj\Debug\net6.0\VariablesDataTypes.AssemblyInfo.cs
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\VariablesDataTypes\VariablesDataTypes\obj\Debug\net6.0\VariablesDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\VariablesDataTypes\VariablesDataTypes\obj\Debug\net6.0\VariablesDataTypes.dll
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\VariablesDataTypes\VariablesDataTypes\obj\Debug\net6.0\refint\VariablesDataTypes.dll
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\VariablesDataTypes\VariablesDataTypes\obj\Debug\net6.0\VariablesDataTypes.pdb
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\VariablesDataTypes\VariablesDataTypes\obj\Debug\net6.0\VariablesDataTypes.genruntimeconfig.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\VariablesDataTypes\VariablesDataTypes\obj\Debug\net6.0\ref\VariablesDataTypes.dll
