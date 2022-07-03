@@ -1,0 +1,15 @@
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\Numbers\Numbers\bin\Debug\net6.0\Numbers.exe
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\Numbers\Numbers\bin\Debug\net6.0\Numbers.deps.json
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\Numbers\Numbers\bin\Debug\net6.0\Numbers.runtimeconfig.json
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\Numbers\Numbers\bin\Debug\net6.0\Numbers.dll
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\Numbers\Numbers\bin\Debug\net6.0\Numbers.pdb
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\Numbers\Numbers\obj\Debug\net6.0\Numbers.csproj.AssemblyReference.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\Numbers\Numbers\obj\Debug\net6.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\Numbers\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\Numbers\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfo.cs
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\Numbers\Numbers\obj\Debug\net6.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\Numbers\Numbers\obj\Debug\net6.0\Numbers.dll
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\Numbers\Numbers\obj\Debug\net6.0\refint\Numbers.dll
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\Numbers\Numbers\obj\Debug\net6.0\Numbers.pdb
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\Numbers\Numbers\obj\Debug\net6.0\Numbers.genruntimeconfig.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\Numbers\Numbers\obj\Debug\net6.0\ref\Numbers.dll
