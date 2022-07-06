@@ -1,0 +1,15 @@
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\GettingUserInput\GettingUserInput\bin\Debug\net6.0\GettingUserInput.exe
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\GettingUserInput\GettingUserInput\bin\Debug\net6.0\GettingUserInput.deps.json
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\GettingUserInput\GettingUserInput\bin\Debug\net6.0\GettingUserInput.runtimeconfig.json
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\GettingUserInput\GettingUserInput\bin\Debug\net6.0\GettingUserInput.dll
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\GettingUserInput\GettingUserInput\bin\Debug\net6.0\GettingUserInput.pdb
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\GettingUserInput\GettingUserInput\obj\Debug\net6.0\GettingUserInput.csproj.AssemblyReference.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\GettingUserInput\GettingUserInput\obj\Debug\net6.0\GettingUserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\GettingUserInput\GettingUserInput\obj\Debug\net6.0\GettingUserInput.AssemblyInfoInputs.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\GettingUserInput\GettingUserInput\obj\Debug\net6.0\GettingUserInput.AssemblyInfo.cs
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\GettingUserInput\GettingUserInput\obj\Debug\net6.0\GettingUserInput.csproj.CoreCompileInputs.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\GettingUserInput\GettingUserInput\obj\Debug\net6.0\GettingUserInput.dll
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\GettingUserInput\GettingUserInput\obj\Debug\net6.0\refint\GettingUserInput.dll
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\GettingUserInput\GettingUserInput\obj\Debug\net6.0\GettingUserInput.pdb
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\GettingUserInput\GettingUserInput\obj\Debug\net6.0\GettingUserInput.genruntimeconfig.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\GettingUserInput\GettingUserInput\obj\Debug\net6.0\ref\GettingUserInput.dll
