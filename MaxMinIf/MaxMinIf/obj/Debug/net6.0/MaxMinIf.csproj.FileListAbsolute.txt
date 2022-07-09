@@ -1,0 +1,15 @@
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MaxMinIf\MaxMinIf\bin\Debug\net6.0\MaxMinIf.exe
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MaxMinIf\MaxMinIf\bin\Debug\net6.0\MaxMinIf.deps.json
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MaxMinIf\MaxMinIf\bin\Debug\net6.0\MaxMinIf.runtimeconfig.json
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MaxMinIf\MaxMinIf\bin\Debug\net6.0\MaxMinIf.dll
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MaxMinIf\MaxMinIf\bin\Debug\net6.0\MaxMinIf.pdb
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MaxMinIf\MaxMinIf\obj\Debug\net6.0\MaxMinIf.csproj.AssemblyReference.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MaxMinIf\MaxMinIf\obj\Debug\net6.0\MaxMinIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MaxMinIf\MaxMinIf\obj\Debug\net6.0\MaxMinIf.AssemblyInfoInputs.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MaxMinIf\MaxMinIf\obj\Debug\net6.0\MaxMinIf.AssemblyInfo.cs
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MaxMinIf\MaxMinIf\obj\Debug\net6.0\MaxMinIf.csproj.CoreCompileInputs.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MaxMinIf\MaxMinIf\obj\Debug\net6.0\MaxMinIf.dll
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MaxMinIf\MaxMinIf\obj\Debug\net6.0\refint\MaxMinIf.dll
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MaxMinIf\MaxMinIf\obj\Debug\net6.0\MaxMinIf.pdb
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MaxMinIf\MaxMinIf\obj\Debug\net6.0\MaxMinIf.genruntimeconfig.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MaxMinIf\MaxMinIf\obj\Debug\net6.0\ref\MaxMinIf.dll
