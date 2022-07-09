@@ -1,0 +1,15 @@
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MadLibsGame\MadLibsGame\bin\Debug\net6.0\MadLibsGame.exe
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MadLibsGame\MadLibsGame\bin\Debug\net6.0\MadLibsGame.deps.json
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MadLibsGame\MadLibsGame\bin\Debug\net6.0\MadLibsGame.runtimeconfig.json
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MadLibsGame\MadLibsGame\bin\Debug\net6.0\MadLibsGame.dll
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MadLibsGame\MadLibsGame\bin\Debug\net6.0\MadLibsGame.pdb
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MadLibsGame\MadLibsGame\obj\Debug\net6.0\MadLibsGame.csproj.AssemblyReference.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MadLibsGame\MadLibsGame\obj\Debug\net6.0\MadLibsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MadLibsGame\MadLibsGame\obj\Debug\net6.0\MadLibsGame.AssemblyInfoInputs.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MadLibsGame\MadLibsGame\obj\Debug\net6.0\MadLibsGame.AssemblyInfo.cs
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MadLibsGame\MadLibsGame\obj\Debug\net6.0\MadLibsGame.csproj.CoreCompileInputs.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MadLibsGame\MadLibsGame\obj\Debug\net6.0\MadLibsGame.dll
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MadLibsGame\MadLibsGame\obj\Debug\net6.0\refint\MadLibsGame.dll
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MadLibsGame\MadLibsGame\obj\Debug\net6.0\MadLibsGame.pdb
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MadLibsGame\MadLibsGame\obj\Debug\net6.0\MadLibsGame.genruntimeconfig.cache
+C:\Users\santosh\Documents\Santosh\aspNet\cSharp\MadLibsGame\MadLibsGame\obj\Debug\net6.0\ref\MadLibsGame.dll

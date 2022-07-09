@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cDHqUnulIXdYLl6xanQkFba32mVmOIrDj8ETZtRbK4mKavpLrtFV7O+544lSRKeiJCWeHMv//TQGVY5BI8qCkA==",
+  "dgSpecHash": "3/dWBHVUtDgrYNUhAS6WnTVwf/wFQtcC4ph1zsGOazGEVt4RKT8VDf4eURBgpC/IyJK6owwMyd6tdaGjTC+jpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\santosh.mhatre\\source\\repos\\C#Code\\C-AspNet\\Calculator\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\santosh\\Documents\\Santosh\\aspNet\\cSharp\\Calculator\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
